@@ -1,0 +1,7 @@
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica II\P2E7\P2E7\bin\Debug\P2E7.exe.config
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica II\P2E7\P2E7\bin\Debug\P2E7.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica II\P2E7\P2E7\bin\Debug\P2E7.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica II\P2E7\P2E7\obj\Debug\P2E7.csprojResolveAssemblyReference.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica II\P2E7\P2E7\obj\Debug\P2E7.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica II\P2E7\P2E7\obj\Debug\P2E7.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica II\P2E7\P2E7\obj\Debug\P2E7.pdb

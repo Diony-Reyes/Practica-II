@@ -1,0 +1,7 @@
+C:\Users\pruebas01\source\repos\ProgramaUnoII\ProgramaUnoII\bin\Debug\ProgramaUnoII.exe.config
+C:\Users\pruebas01\source\repos\ProgramaUnoII\ProgramaUnoII\bin\Debug\ProgramaUnoII.exe
+C:\Users\pruebas01\source\repos\ProgramaUnoII\ProgramaUnoII\bin\Debug\ProgramaUnoII.pdb
+C:\Users\pruebas01\source\repos\ProgramaUnoII\ProgramaUnoII\obj\Debug\ProgramaUnoII.csprojAssemblyReference.cache
+C:\Users\pruebas01\source\repos\ProgramaUnoII\ProgramaUnoII\obj\Debug\ProgramaUnoII.csproj.CoreCompileInputs.cache
+C:\Users\pruebas01\source\repos\ProgramaUnoII\ProgramaUnoII\obj\Debug\ProgramaUnoII.exe
+C:\Users\pruebas01\source\repos\ProgramaUnoII\ProgramaUnoII\obj\Debug\ProgramaUnoII.pdb

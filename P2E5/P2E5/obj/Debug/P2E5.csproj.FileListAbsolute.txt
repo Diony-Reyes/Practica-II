@@ -1,0 +1,7 @@
+C:\Users\pruebas01\Desktop\P2E5\P2E5\bin\Debug\P2E5.exe.config
+C:\Users\pruebas01\Desktop\P2E5\P2E5\bin\Debug\P2E5.exe
+C:\Users\pruebas01\Desktop\P2E5\P2E5\bin\Debug\P2E5.pdb
+C:\Users\pruebas01\Desktop\P2E5\P2E5\obj\Debug\P2E5.csprojAssemblyReference.cache
+C:\Users\pruebas01\Desktop\P2E5\P2E5\obj\Debug\P2E5.csproj.CoreCompileInputs.cache
+C:\Users\pruebas01\Desktop\P2E5\P2E5\obj\Debug\P2E5.exe
+C:\Users\pruebas01\Desktop\P2E5\P2E5\obj\Debug\P2E5.pdb
